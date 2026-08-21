@@ -7,6 +7,7 @@ FrozenCore's curated World of Warcraft 3.3.5a addon bundle.
 - DBM and bundled DBM modules
 - Details and bundled Details modules
 - Dominos and bundled Dominos modules
+- DungeonClear
 - GearScoreLite
 - OmniCC and OmniCC_Config
 - UnBot
