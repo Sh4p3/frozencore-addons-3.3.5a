@@ -10,16 +10,10 @@ FrozenCore's curated World of Warcraft 3.3.5a addon bundle.
 - DungeonClear
 - GearScoreLite
 - OmniCC and OmniCC_Config
-- UnBot (requires YssBossLoot, downloaded separately)
+- UnBot
+- YssBossLoot v1.0.4 with bundled libraries (required by UnBot)
 
-## External dependencies
-
-### UnBot
-
-UnBot requires **YssBossLoot v1.0.4**, which is not distributed in this repository.
-Download the standard (not `nolib`) 3.3.5 package from the
-[official WowAce release page](https://www.wowace.com/projects/yssbossloot/files/455663),
-then copy its `YssBossLoot` folder alongside `UnBot` in `Interface\AddOns`.
+YssBossLoot: [official WowAce release](https://www.wowace.com/projects/yssbossloot/files/455663).
 
 ## Install
 
