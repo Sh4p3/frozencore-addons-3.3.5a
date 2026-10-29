@@ -8,11 +8,13 @@ A beginner-friendly addon bundle for World of Warcraft 3.3.5a.
 - **DBM** and its encounter modules: boss and dungeon warnings.
 - **Skada**: damage, healing, and other combat statistics. Use `/skada` to open its settings.
 - **NotPlater**: customizable, threat-aware nameplates. Use `/np` to open its settings.
+- **Questie-335**: quest locations, objectives, and an improved quest tracker. Use `/questie` to open its settings.
 - **UnBot** and **YssBossLoot**: bot controls and UnBot's required dependency.
 - **DungeonClear**: controls for an autonomous bot tank. This requires the server-side `mod-dungeon-clear` module and a playerbot tank in your party.
 
 YssBossLoot: [official WowAce release](https://www.wowace.com/projects/yssbossloot/files/455663).
 NotPlater: [source](https://github.com/RichSteini/NotPlater); Skada: [source](https://github.com/bkader/Skada-WoTLK).
+Questie-335: [AzerothCore-focused source](https://github.com/Aldori15/Questie). Custom server quests and data may differ from its database.
 DragonUI: [official v2.5 release](https://github.com/NeticSoul/DragonUI/tree/v2.5); its license and third-party notices are included in the `DragonUI` folder.
 
 ## Install

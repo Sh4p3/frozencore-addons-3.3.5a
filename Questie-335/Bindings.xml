@@ -1,0 +1,9 @@
+<Bindings>
+    <Binding name="QUESTIE_TOGGLE_JOURNEY" header="QUESTIE">
+        QuestieLoader:ImportModule("QuestieJourney"):ToggleJourneyWindow()
+    </Binding>
+    <Binding name="QUESTIE_TOGGLE_TRACKER">
+        QuestieLoader:ImportModule("QuestieTracker").ToggleTracker()
+    </Binding>
+    <Binding name="CLICK Questie_NearestQuestItemButton:LeftButton" />
+</Bindings>
